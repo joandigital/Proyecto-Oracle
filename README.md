@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="600" src="https://media.giphy.com/media/DXEhN8IZsDWlRGw8LB/giphy-downsized-large.gif" />
+   <img align="center" width="200" src="https://i.ibb.co/JcBbMKD/circulo.png"/>
 
 <p align="center">
     <a href="https://linkedin.com/in/jose-andres-llancari" style="margin: 0 20px;">
@@ -11,13 +11,31 @@
 </p>
 
 <h3 align="center">¡Hey hola! Soy José Andrés 👨🏻‍💻</h3>
-<p align="center">Soy un <strong>Desarrollador en progreso </strong> del programa ONE <br />¡Revisa mi progreso en mis repositorios!</p>
+<p align="center">Soy un <strong>Desarrollador en progreso </strong> del programa ONE <br /></p>
 
 
-## 👉 Sobre mí
-¡Hola! Mi nombre es José Andrés y soy un talento disponible. Soy estudiante de 7mo ciclo de la carrera de publicidad y marketing digital en Toulouse Lautrec.
+## 👉 Descripción
+Este es un código creado con JavaScript como parctica de las clases de programación de Oracle.
 
-<h3 align="left">Contácteme conmigo:</h3>
+<p><strong>📫 Contáctese conmigo:</strong> <a href="mailto:elcorreoquequieres@correo.com">josell.93@gmail.com</a></p> 
 
-📫 <a href="mailto:elcorreoquequieres@correo.com">josell.93@gmail.com</a>
 
+## URL para ver el resultado 🌐
+Para ver proyecto en directo puedes verlo aquí:
+[https://eduardofierropro.github.io/Tabs-en-HTML-CSS-y-JS/](https://eduardofierropro.github.io/Tabs-en-HTML-CSS-y-JS/)
+
+## Tiempo de programación ⏰
+Este ejemplo ha sido programado en aproximadamente 15 minutos.
+
+## Uso 🚀
+¡Mira el código, modifícalo y disfruta!
+Es un código programado en directo para entretenimiento.
+
+
+## Autor ✒️
+**José Andrés Llancari** - *Documentación y trabajo inicial*
+
+
+## Licencia 📄
+MIT Public License v3.0
+No puede usarse comencialmente.
