@@ -14,7 +14,7 @@
 <p align="center">Soy un <strong>Desarrollador en progreso </strong> del programa ONE <br /></p>
 
 
-## 👉 Descripción
+<h3>👉 Descripción:</h3>
 Este es un código creado con JavaScript como parctica de las clases de programación de Oracle.
 
 <p><strong>📫 Contáctese conmigo:</strong> <a href="mailto:elcorreoquequieres@correo.com">josell.93@gmail.com</a></p> 
