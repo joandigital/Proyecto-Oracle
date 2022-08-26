@@ -22,7 +22,11 @@ Este es un código creado con JavaScript como parctica de las clases de programa
 
 ## URL para ver el resultado 🌐
 Para ver proyecto en directo puedes verlo aquí:
-[https://eduardofierropro.github.io/Tabs-en-HTML-CSS-y-JS/](https://eduardofierropro.github.io/Tabs-en-HTML-CSS-y-JS/)
+[https://joandigital.github.io/Proyecto-Oracle/](https://joandigital.github.io/Proyecto-Oracle/)
+
+
+<img align="center" width="400" src="https://i.ibb.co/QpQT5wt/pr-ctica-de-edades.png"/>
+
 
 ## Tiempo de programación ⏰
 Este ejemplo ha sido programado en aproximadamente 15 minutos.
