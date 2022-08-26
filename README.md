@@ -23,7 +23,7 @@ Para ver proyecto en directo puedes verlo aquí:
 [https://joandigital.github.io/Proyecto-Oracle/](https://joandigital.github.io/Proyecto-Oracle/)
 
 
-<img align="left" width="400" src="https://i.ibb.co/QpQT5wt/pr-ctica-de-edades.png">
+<img align="center" width="400" src="https://i.ibb.co/QpQT5wt/pr-ctica-de-edades.png">
 
 
 ## Tiempo de programación ⏰
