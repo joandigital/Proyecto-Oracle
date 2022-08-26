@@ -2,11 +2,10 @@
    <img align="center" width="200" src="https://i.ibb.co/JcBbMKD/circulo.png"/>
 
 <p align="center">
-    <a href=["https://www.behance.net/jose_andres_llancari](https://www.behance.net/jose_andres_llancari)" style="margin: 0 20px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance - José Andrés Llancari" height="28px" width="28px" />
+    <a href="https://www.behance.net/jose_andres_llancari" style="margin: 0 20px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance - José Andrés Llancari" height="28px" width="28px" />
     </a>
-    <a href="https://www.linkedin.com/in/jose-andres-llancari/" target="blank" style="margin: 0 20px;"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Linkedin - José Andrés Llancari" height="28px" width="28px" />
+    <a href="https://www.linkedin.com/in/jose-andres-llancari/" style="margin: 0 20px;"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Linkedin - José Andrés Llancari" height="28px" width="28px" />
     </a>
-   
 </p>
 
 <h4 align="center">¡Hey hola! Soy José Andrés 👨🏻‍💻</h4>
@@ -24,7 +23,7 @@ Para ver proyecto en directo puedes verlo aquí:
 [https://joandigital.github.io/Proyecto-Oracle/](https://joandigital.github.io/Proyecto-Oracle/)
 
 
-<img align="center" width="400" src="https://i.ibb.co/QpQT5wt/pr-ctica-de-edades.png"/>
+<img align="left" width="400" src="https://i.ibb.co/QpQT5wt/pr-ctica-de-edades.png">
 
 
 ## Tiempo de programación ⏰
