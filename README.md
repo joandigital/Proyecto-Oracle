@@ -13,7 +13,9 @@
 
 
 <h3>👉 Descripción:</h3>
-Este es un código creado con JavaScript como parctica de las clases de programación de Oracle.
+Este es un código creado con JavaScript como práctica de las clases de programación de Oracle.
+Empleé funciones y varibles para utilizar la menor cantidad de líneas de código.
+
 
 <p><strong>📫 Contáctese conmigo:</strong> <a href="mailto:elcorreoquequieres@correo.com">josellh.93@gmail.com</a></p> 
 
